@@ -1,5 +1,5 @@
 // Програмний проєкт 1, задача 1.
-// Компілятор: GCC 13 (g++ -std=c++23). Precompiled header не використовується.
+// Компілятор: MSVC (Visual Studio, /std:c++23preview). Precompiled header не використовується.
 
 #include <iostream>
 #include <string>
